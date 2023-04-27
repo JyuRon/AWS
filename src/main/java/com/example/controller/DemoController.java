@@ -14,7 +14,7 @@ public class DemoController {
 
     @GetMapping("/name")
     public String name(){
-        return value+" jyuka2-04-27";
+        return value+" jyuka2-04-27(2)";
     }
 
 
